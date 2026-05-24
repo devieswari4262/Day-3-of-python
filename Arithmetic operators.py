@@ -1,4 +1,4 @@
-# assignment operation
+# Arithmetic operation
 
 salary= int(input("Enter the salary:"))
 salary +=500
