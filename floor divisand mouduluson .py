@@ -1,5 +1,5 @@
 # Find the quotient and remainder by using operators
-#modulus operator
+#floor divison and modulus operator
 
 a=17
 b=5
