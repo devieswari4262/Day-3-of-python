@@ -17,3 +17,11 @@ salary -=500
 print(salary)
 o/p:Enter the salary:15500
 15000
+
+n=4
+square=n*n
+cube=n*n*n
+print("square=",square)
+print("cube=",cube)
+o/p:square= 16
+cube= 64
