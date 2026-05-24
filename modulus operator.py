@@ -7,3 +7,5 @@ quotient=a//b
 remainder=a % b
 print("Quotient:",quotient)
 print("Remainder:",remainder)
+o/p:Quotient: 3
+Remainder: 2
